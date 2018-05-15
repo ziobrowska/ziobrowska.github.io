@@ -38,7 +38,7 @@ body{
 #cytat1 {
     height: inherit;
     padding-top: 20%;
-}
+  }
 
 #cytat {
     padding-top: 2%;
@@ -295,7 +295,7 @@ footer{
     padding-top: 5%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 500px) {
     #cytat1 {
         padding-top: 70%;
     }
@@ -317,7 +317,7 @@ footer{
     }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 1300px){
+@media only screen and (min-width: 500px) and (max-width: 800px){
     #cytat1 {
         padding-top: 50%;
     }
@@ -329,6 +329,24 @@ footer{
     }
     input, textarea{
         width: 80%;
+    }
+    .cat2 {
+        font-size: 1em;
+    }
+    #hearts{
+        margin:  0% 20% 10% 20% ;
+        width:auto;
+    }
+}
+@media only screen and (min-width: 800px){
+    #cytat1 {
+        padding-top: 20%;
+    }
+    #number3, #number5 {
+        padding-top: 20%;
+    }
+    #number7 {
+        padding-top: 30%;
     }
     .cat2 {
         font-size: 1em;
