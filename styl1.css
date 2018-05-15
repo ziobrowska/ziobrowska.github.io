@@ -37,7 +37,7 @@ body{
 
 #cytat1 {
     height: inherit;
-    padding-top: 25%;
+    padding-top: 20%;
 }
 
 #cytat {
@@ -270,7 +270,7 @@ button {
     display: inline-block;
     font-size: 0.8em;
     cursor: pointer;
-    padding: 3%;
+    padding: 2%;
     margin: 1%;
 }
 
